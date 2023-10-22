@@ -1,0 +1,10 @@
+controller_user_accounts:
+  - user: "vsenator_test"
+    is_superuser: false
+    password: "redhat"
+
+controller_projects:
+  - name: "Foo_gitops"
+    description: "Foo bar project"
+    organization: "Default"
+    state: present
