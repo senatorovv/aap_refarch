@@ -1,0 +1,5 @@
+---
+controller_organizations:
+  - name: "GitOps Org"
+    description: "Organization created by GitOps"
+    state: present
