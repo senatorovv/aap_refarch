@@ -9,3 +9,8 @@ controller_projects:
     description: "Foo bar project"
     organization: "Default"
     state: present
+    
+controller_organizations:
+  - name: "GitOps Org"
+    description: "Organization created by GitOps"
+    state: present
