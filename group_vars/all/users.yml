@@ -3,3 +3,8 @@ controller_user_accounts:
     is_superuser: false
     password: "redhat"
 
+controller_user_accounts:
+  - user: "gitops_user"
+    is_superuser: false
+    password: "redhat"
+
