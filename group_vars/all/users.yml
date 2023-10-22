@@ -7,4 +7,9 @@ controller_user_accounts:
   - user: "gitops_user"
     is_superuser: false
     password: "redhat"
+    
+controller_user_accounts:
+  - user: "gitops_user-2"
+    is_superuser: false
+    password: "redhat"
 
