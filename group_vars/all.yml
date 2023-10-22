@@ -3,7 +3,7 @@ controller_user_accounts:
   - user: "vsenator"
     is_superuser: false
     password: "redhat"
----
+
 controller_projects:
   - name: "Foo"
     description: "Foo bar project"
