@@ -1,5 +1,5 @@
 ---
 controller_user_accounts:
-  - user: "colin"
+  - user: "vsenator"
     is_superuser: false
     password: "redhat"
