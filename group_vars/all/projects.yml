@@ -1,0 +1,5 @@
+controller_projects:
+  - name: "GitOps project"
+    description: "Foo bar project"
+    organization: "Default"
+    state: present
