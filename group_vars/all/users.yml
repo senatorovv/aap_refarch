@@ -13,3 +13,8 @@ controller_user_accounts:
     is_superuser: false
     password: "redhat"
 
+controller_user_accounts:
+  - user: "jawwy_user"
+    is_superuser: false
+    password: "redhat"
+
